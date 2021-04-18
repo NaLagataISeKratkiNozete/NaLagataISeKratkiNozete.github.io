@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Вакцините стигаат у Февруари!"
+date:   2021-04-18 13:58:41 -0500
+categories: сдсм
+---
+<img class="center full-width solid-border" src="{{ site.baseurl }}/images/vakciniteStigaat.png"/>
+
+<a href="https://twitter.com/kostadinkosta1/status/1344334263269945344">Извор</a>
