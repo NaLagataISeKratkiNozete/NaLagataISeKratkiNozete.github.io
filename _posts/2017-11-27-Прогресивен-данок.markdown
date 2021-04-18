@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Прогресивен Данок"
+date:   2017-11-27 13:58:41 -0500
+categories: сдсм
+---
+<img class="center full-width solid-border" src="{{ site.baseurl }}/images/progresivenDanok.png"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJlqH5Lw6kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://denar.mk/192163/ekonomija/zaev-progresivniot-danok-ke-pridonese-za-pravedno-opstestvo-vo-makedonija">Извор</a>
