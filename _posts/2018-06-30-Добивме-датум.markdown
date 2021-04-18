@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Вакцините стигаат у Февруари!"
+date:   2021-04-18 13:58:41 -0500
+categories: сдсм
+---
+<img class="center full-width solid-border" src="{{ site.baseurl }}/images/dobivmeDatum.png"/>
+
+<a href="https://kanal5.com.mk/zaev-dobivme-datum-za-pregovori-istoriska-odluka-na-eu/a340155">Извор</a>
